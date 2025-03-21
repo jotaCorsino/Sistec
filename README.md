@@ -136,3 +136,9 @@
   - Tempo de resolução.
   - Índices de aprovação/rejeição.
   - Desempenho dos Analistas de Suporte.
+
+ ## 📌 Glossário
+
+- [Levantamento de Requisitos Funcionais](https://almondine-theater-2de.notion.site/Levantamento-de-Requisitos-Funcionais-PIM-III-1bb5e5bed7b68055bab9c4927d972976#1bc5e5bed7b680d48adae785af83b25c)  
+- [Diagrama de Casos de Uso](https://almondine-theater-2de.notion.site/Diagrama-de-Casos-de-Uso-1bd5e5bed7b680f187bed43e712d6d42)  
+- [Ciclo de Vida de um Chamado](https://almondine-theater-2de.notion.site/Ciclo-de-Vida-de-um-Chamado-1bc5e5bed7b680539109fad511ebf310)  
