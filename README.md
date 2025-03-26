@@ -139,6 +139,7 @@
 
  ## 📌 Glossário
 
-- [Levantamento de Requisitos Funcionais](https://almondine-theater-2de.notion.site/Levantamento-de-Requisitos-Funcionais-PIM-III-1bb5e5bed7b68055bab9c4927d972976#1bc5e5bed7b680d48adae785af83b25c)  
-- [Diagrama de Casos de Uso](https://almondine-theater-2de.notion.site/Diagrama-de-Casos-de-Uso-1bd5e5bed7b680f187bed43e712d6d42)  
-- [Ciclo de Vida de um Chamado](https://almondine-theater-2de.notion.site/Ciclo-de-Vida-de-um-Chamado-1bc5e5bed7b680539109fad511ebf310)  
+- [Levantamento de Requisitos Funcionais](https://tar-stay-ec9.notion.site/Levantamento-de-Requisitos-Funcionais-PIM-III-1c25872c0a9281399f40f5e513e43048?pvs=4)  
+- [Diagrama de Casos de Uso](https://tar-stay-ec9.notion.site/Diagrama-de-Casos-de-Uso-1c25872c0a9281978842fd6060bd9144?pvs=4)
+- [Product Backlog](https://tar-stay-ec9.notion.site/Product-Backlog-1c25872c0a9281afa45cee6072936a2c?pvs=4)  
+- [Ciclo de Vida de um Chamado](https://tar-stay-ec9.notion.site/Ciclo-de-Vida-de-um-Chamado-1c25872c0a9281bcb642ee620d554c95?pvs=4)
