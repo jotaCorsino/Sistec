@@ -1,3 +1,18 @@
+Equipe:
+
+Júlio Vasconcelos - Product Owner
+
+Thales Cotrim - Scrum Master
+
+Samuel Parra - Dev Team
+
+João Corsino - Dev Team
+
+Jaqueline Barbosa - Dev Team
+
+Lucas Alves - Dev Team
+
+
 # 1. Gestão de Usuários e Perfis de Acesso
 
 ## 1.1 Cadastro de Usuários
