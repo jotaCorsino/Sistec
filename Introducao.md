@@ -83,3 +83,12 @@ Otimizar o processo de planejamento das sprints através de uma abordagem estrut
 4. **Transição:** Revisão técnica diária entre fases
 
 *"Esta abordagem permite dedicar a atenção necessária tanto ao planejamento estratégico quanto à execução ágil, sem sobrecarregar o time com decisões técnicas durante o desenvolvimento."*
+
+## 📌 Navegação
+
+- [Ciclo de Vida de um Chamado](https://tar-stay-ec9.notion.site/Ciclo-de-Vida-de-um-Chamado-1c25872c0a9281bcb642ee620d554c95?pvs=4){:target="_blank"}  
+- [Levantamento de Requisitos Funcionais](https://tar-stay-ec9.notion.site/Levantamento-de-Requisitos-Funcionais-PIM-III-1c25872c0a9281399f40f5e513e43048?pvs=4){:target="_blank"}
+- [Diagrama de Casos de Uso](https://tar-stay-ec9.notion.site/Diagrama-de-Casos-de-Uso-1c25872c0a9281978842fd6060bd9144?pvs=4){:target="_blank"}  
+- [Product Backlog](https://tar-stay-ec9.notion.site/Product-Backlog-1c25872c0a9281afa45cee6072936a2c?pvs=4){:target="_blank"}  
+- [Sprint Planning](#){:target="_blank"} *(link a ser adicionado)*  
+
