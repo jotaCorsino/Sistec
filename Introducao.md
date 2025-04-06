@@ -93,6 +93,6 @@ Otimizar o processo de planejamento das sprints através de uma abordagem estrut
 
 ## 🚀 Gestão Ágil
 - [Product Backlog](https://tar-stay-ec9.notion.site/Product-Backlog-1c25872c0a9281afa45cee6072936a2c?pvs=4)
-- [Sprint Planning](#)
+- [Sprint Planning](https://github.com/jotaCorsino/Sistec/blob/main/sprint-planning.md)
 
 
