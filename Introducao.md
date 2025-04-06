@@ -1,4 +1,4 @@
-## A Equipe
+# A Equipe
 
 **Product Owner**  
 Júlio Vasconcelos  
@@ -12,8 +12,8 @@ Thales Cotrim
 - Jaqueline Barbosa  
 - Lucas Alves
 
-## O Projeto
-# Sistema Inteligente de Gestão de Chamados de Suporte
+# O Projeto
+## Sistema Inteligente de Gestão de Chamados de Suporte
 
 Este projeto tem como objetivo desenvolver uma **plataforma integrada e automatizada** para gerenciamento de chamados de suporte técnico, combinando **controle de acesso, automação de fluxos de trabalho e inteligência artificial** para:
 
@@ -40,7 +40,7 @@ A solução proposta é voltada para empresas que necessitam de um sistema **con
 - **Relatórios estratégicos** de desempenho e SLA
 - **Filtros avançados** para gestão eficiente
 
-## O Planejamento
+# O Planejamento
 ## Sprint Planning em Duas Fases
 
 ### Objetivo
