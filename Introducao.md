@@ -1,3 +1,18 @@
+## A Equipe
+
+**Product Owner**  
+Júlio Vasconcelos  
+
+**Scrum Master**  
+Thales Cotrim  
+
+**Dev Team**  
+- Samuel Parra  
+- João Corsino  
+- Jaqueline Barbosa  
+- Lucas Alves
+
+## O Projeto
 # Sistema Inteligente de Gestão de Chamados de Suporte
 
 Este projeto tem como objetivo desenvolver uma **plataforma integrada e automatizada** para gerenciamento de chamados de suporte técnico, combinando **controle de acesso, automação de fluxos de trabalho e inteligência artificial** para:
