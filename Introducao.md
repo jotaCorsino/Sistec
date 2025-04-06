@@ -84,12 +84,12 @@ Otimizar o processo de planejamento das sprints através de uma abordagem estrut
 
 *"Esta abordagem permite dedicar a atenção necessária tanto ao planejamento estratégico quanto à execução ágil, sem sobrecarregar o time com decisões técnicas durante o desenvolvimento."*
 
-## Documentação
-
-- <a href="https://tar-stay-ec9.notion.site/Ciclo-de-Vida-de-um-Chamado-1c25872c0a9281bcb642ee620d554c95?pvs=4" target="_blank" rel="noopener noreferrer">Ciclo de Vida de um Chamado</a>
-- <a href="https://exemplo.com/fluxo-de-chamados" target="_blank" rel="noopener noreferrer">Fluxo de Chamados</a>
-- <a href="https://exemplo.com/diagrama-de-casos-de-uso" target="_blank" rel="noopener noreferrer">Diagrama de Casos de Uso</a>
-- <a href="https://exemplo.com/backlog-do-produto" target="_blank" rel="noopener noreferrer">Backlog do Produto</a>
-- <a href="https://exemplo.com/documentacao-tecnica" target="_blank" rel="noopener noreferrer">Documentação Técnica</a>
+ ## 📌 Navegação / Documentação
+ 
+- [Ciclo de Vida de um Chamado](https://tar-stay-ec9.notion.site/Ciclo-de-Vida-de-um-Chamado-1c25872c0a9281bcb642ee620d554c95?pvs=4)
+- [Levantamento de Requisitos Funcionais](https://tar-stay-ec9.notion.site/Levantamento-de-Requisitos-Funcionais-PIM-III-1c25872c0a9281399f40f5e513e43048?pvs=4)  
+- [Diagrama de Casos de Uso](https://tar-stay-ec9.notion.site/Diagrama-de-Casos-de-Uso-1c25872c0a9281978842fd6060bd9144?pvs=4)
+- [Product Backlog](https://tar-stay-ec9.notion.site/Product-Backlog-1c25872c0a9281afa45cee6072936a2c?pvs=4)
+- [Sprint Planning](https://tar-stay-ec9.notion.site/Product-Backlog-1c25872c0a9281afa45cee6072936a2c?pvs=4)  
 
 
