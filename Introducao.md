@@ -47,7 +47,7 @@ A solução proposta é voltada para empresas que necessitam de um sistema **con
 Otimizar o processo de planejamento das sprints através de uma abordagem estruturada em duas etapas claramente definidas, garantindo alinhamento técnico e eficiência na execução.
 
 ### Fase 1 - Arquitetura e Planejamento
-**Duração:** ~~xxxxxxxx~~
+**Duração:** ~~xxxxxxxx
 **Participantes:** Dev Team, Product Owner e Scrum Master  
 **Entregáveis:**
 - Definição da arquitetura
@@ -63,7 +63,7 @@ Otimizar o processo de planejamento das sprints através de uma abordagem estrut
 - Melhor estimativa de esforço para o time de desenvolvimento
 
 ### Fase 2 - Desenvolvimento e Implementação
-**Duração:** ~~xxxxxxxx~~
+**Duração:** ~~xxxxxxxx
 **Participantes:** Dev Team, Product Owner e Scrum Master  
 **Atividades:**
 - Desdobramento das tarefas técnicas
