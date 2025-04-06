@@ -86,9 +86,9 @@ Otimizar o processo de planejamento das sprints através de uma abordagem estrut
 
 ## 📌 Navegação
 
-- [Ciclo de Vida de um Chamado](https://tar-stay-ec9.notion.site/Ciclo-de-Vida-de-um-Chamado-1c25872c0a9281bcb642ee620d554c95?pvs=4){:target="_blank"}  
-- [Levantamento de Requisitos Funcionais](https://tar-stay-ec9.notion.site/Levantamento-de-Requisitos-Funcionais-PIM-III-1c25872c0a9281399f40f5e513e43048?pvs=4){:target="_blank"}
-- [Diagrama de Casos de Uso](https://tar-stay-ec9.notion.site/Diagrama-de-Casos-de-Uso-1c25872c0a9281978842fd6060bd9144?pvs=4){:target="_blank"}  
-- [Product Backlog](https://tar-stay-ec9.notion.site/Product-Backlog-1c25872c0a9281afa45cee6072936a2c?pvs=4){:target="_blank"}  
-- [Sprint Planning](#){:target="_blank"} *(link a ser adicionado)*  
+- [Ciclo de Vida de um Chamado](https://tar-stay-ec9.notion.site/Ciclo-de-Vida-de-um-Chamado-1c25872c0a9281bcb642ee620d554c95?pvs=4){:target="_blank"}{:rel="noopener noreferrer"} 
+- [Levantamento de Requisitos Funcionais](https://tar-stay-ec9.notion.site/Levantamento-de-Requisitos-Funcionais-PIM-III-1c25872c0a9281399f40f5e513e43048?pvs=4){:target="_blank"}{:rel="noopener noreferrer"}  
+- [Diagrama de Casos de Uso](https://tar-stay-ec9.notion.site/Diagrama-de-Casos-de-Uso-1c25872c0a9281978842fd6060bd9144?pvs=4){:target="_blank"}{:rel="noopener noreferrer"}  
+- [Product Backlog](https://tar-stay-ec9.notion.site/Product-Backlog-1c25872c0a9281afa45cee6072936a2c?pvs=4){:target="_blank"}{:rel="noopener noreferrer"} 
+- [Sprint Planning](#){:target="_blank"}{:rel="noopener noreferrer"} *(link a ser adicionado)*   
 
