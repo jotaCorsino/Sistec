@@ -39,3 +39,47 @@ A solução proposta é voltada para empresas que necessitam de um sistema **con
 - **Dashboards interativos** em tempo real
 - **Relatórios estratégicos** de desempenho e SLA
 - **Filtros avançados** para gestão eficiente
+
+## O Planejamento
+## Sprint Planning em Duas Fases
+
+### Objetivo
+Otimizar o processo de planejamento das sprints através de uma abordagem estruturada em duas etapas claramente definidas, garantindo alinhamento técnico e eficiência na execução.
+
+### Fase 1 - Arquitetura e Planejamento
+**Duração:** ~~xxxxxxxx~~
+**Participantes:** Dev Team, Product Owner e Scrum Master  
+**Entregáveis:**
+- Definição da arquitetura
+- Diagrama de Caso de uso, Classe, Sequência e Implementação
+- Modelagem de Banco de Dados
+- Arquitetura da informação e fluxos de usuário
+- Wireframes e prototipos de média fidelidade
+- Prototipo de alta fidelidade
+
+**Benefícios:**
+- Alinhamento prévio sobre soluções técnicas
+- Identificação antecipada de desafios arquiteturais
+- Melhor estimativa de esforço para o time de desenvolvimento
+
+### Fase 2 - Desenvolvimento e Implementação
+**Duração:** ~~xxxxxxxx~~
+**Participantes:** Dev Team, Product Owner e Scrum Master  
+**Atividades:**
+- Desdobramento das tarefas técnicas
+- Implementação das soluções
+- Validações contínuas
+- Daily meetings para acompanhamento
+
+**Benefícios:**
+- Foco exclusivo na execução após planejamento consolidado
+- Maior produtividade com requisitos técnicos claros
+- Redução de retrabalho por decisões arquiteturais tardias
+
+### Fluxo de Trabalho Integrado
+1. **Pré-Sprint:** Product Owner prioriza backlog
+2. **Sprint Planning Fase 1:** Time define "como" construir
+3. **Sprint Planning Fase 2:** Time executa "o que" foi planejado
+4. **Transição:** Revisão técnica diária entre fases
+
+*"Esta abordagem permite dedicar a atenção necessária tanto ao planejamento estratégico quanto à execução ágil, sem sobrecarregar o time com decisões técnicas durante o desenvolvimento."*
